@@ -20,7 +20,7 @@
       .chat-logo,
       .support-logo img,
       img[alt='Company Logo'] {
-        content: url('https://yourdomain.com/norango-logo.png') !important;
+        content: url('https://storage.googleapis.com/msgsndr/51dX8CkgW0zi2Nw1PykKV/media/6827dcdd6671c6146b0370ac2.png') !important;
         max-height: 60px !important;
         display: block !important;
         margin: auto;
